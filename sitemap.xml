@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://loveatfirstride.com/about/</loc>
+    <lastmod>2017-11-19T01:23:45+00:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://loveatfirstride.com/contact/</loc>
+    <lastmod>2017-11-19T12:23:34+12:34</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://loveatfirstride.com/post/work1/</loc>
+    <lastmod>2017-11-19T11:22:33+44:55</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://loveatfirstride.com/about/</loc>
+    <lastmod>2017-11-19T01:23:45+00:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://loveatfirstride.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://loveatfirstride.com/contact/</loc>
+    <lastmod>2017-11-19T12:23:34+12:34</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://loveatfirstride.com/</loc>
+    <lastmod>2017-11-19T01:23:45+00:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://loveatfirstride.com/post/</loc>
+    <lastmod>2017-11-19T11:22:33+44:55</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://loveatfirstride.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

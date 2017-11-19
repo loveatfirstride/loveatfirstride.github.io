@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Love At First Ride</title>
+    <link>http://loveatfirstride.com/</link>
+    <description>Recent content on Love At First Ride</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;2017 ozlabs.house</copyright>
+    <lastBuildDate>Sun, 19 Nov 2017 01:23:45 +0030</lastBuildDate>
+    
+	<atom:link href="http://loveatfirstride.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://loveatfirstride.com/about/</link>
+      <pubDate>Sun, 19 Nov 2017 01:23:45 +0030</pubDate>
+      
+      <guid>http://loveatfirstride.com/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Get in touch</title>
+      <link>http://loveatfirstride.com/contact/</link>
+      <pubDate>Sun, 19 Nov 2017 12:23:34 +1234</pubDate>
+      
+      <guid>http://loveatfirstride.com/contact/</guid>
+      <description>ozlabs.house</description>
+    </item>
+    
+    <item>
+      <title>Coming soon to a laundry near you!</title>
+      <link>http://loveatfirstride.com/post/work1/</link>
+      <pubDate>Sun, 19 Nov 2017 11:22:33 +4455</pubDate>
+      
+      <guid>http://loveatfirstride.com/post/work1/</guid>
+      <description>The solution wasn&amp;rsquo;t a bigger wrench.. for now.</description>
+    </item>
+    
+  </channel>
+</rss>

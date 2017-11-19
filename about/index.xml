@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Love At First Ride</title>
+    <link>http://loveatfirstride.com/about/</link>
+    <description>Recent content in Abouts on Love At First Ride</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;2017 ozlabs.house</copyright>
+    <lastBuildDate>Sun, 19 Nov 2017 01:23:45 +0030</lastBuildDate>
+    
+	<atom:link href="http://loveatfirstride.com/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://loveatfirstride.com/about/</link>
+      <pubDate>Sun, 19 Nov 2017 01:23:45 +0030</pubDate>
+      
+      <guid>http://loveatfirstride.com/about/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

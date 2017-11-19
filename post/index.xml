@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Love At First Ride</title>
+    <link>http://loveatfirstride.com/post/</link>
+    <description>Recent content in Posts on Love At First Ride</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;2017 ozlabs.house</copyright>
+    <lastBuildDate>Sun, 19 Nov 2017 11:22:33 +4455</lastBuildDate>
+    
+	<atom:link href="http://loveatfirstride.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Coming soon to a laundry near you!</title>
+      <link>http://loveatfirstride.com/post/work1/</link>
+      <pubDate>Sun, 19 Nov 2017 11:22:33 +4455</pubDate>
+      
+      <guid>http://loveatfirstride.com/post/work1/</guid>
+      <description>The solution wasn&amp;rsquo;t a bigger wrench.. for now.</description>
+    </item>
+    
+  </channel>
+</rss>
